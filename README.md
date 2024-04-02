@@ -1,10 +1,10 @@
-# Blackbox Hyperelements 03
+# Blackbox Hyperelements 02
 
 In the innovative frontier of digital exploration, the Blackbox Hyperelements project emerges as a beacon of hypergenerativity, intertwining algorithmic design, AI-driven creativity, and user interactivity within a browser-based environment. This initiative has birthed three applications, each serving as a portal to a world where speculative materials could potentially manipulate time and space. These applications are not mere tools; they are immersive experiences, prototypes of double generativity, designed to invite users into a co-creative process with technology.
 
 ## Applications Overview
 
-- **Blackbox HyperElements 01**: Utilizes p5.js for creative coding, creating a dynamic environment where a white circle, driven by Perlin noise, moves and changes size to reflect the nuances of time and motion. This visual is then captured and sent every 200 ms to the AI model, which responds in near real-time, enhancing the interactive experience. [Experience it live](https://blackbox-hyperelements02.vercel.app/).
+- **Blackbox HyperElements 02**: Utilizes p5.js for creative coding, creating a dynamic environment where a white circle, driven by Perlin noise, moves and changes size to reflect the nuances of time and motion. This visual is then captured and sent every 200 ms to the AI model, which responds in near real-time, enhancing the interactive experience. [Experience it live](https://blackbox-hyperelements02.vercel.app/).
 
 
 ## Beyond Browser-Based Interactions
